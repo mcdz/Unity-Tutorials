@@ -9,6 +9,21 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Healthbar Tutorial/[Ll]ibrary/
+/Healthbar Tutorial/[Tt]emp/
+/Healthbar Tutorial/[Oo]bj/
+/Healthbar Tutorial/[Bb]uild/
+/Healthbar Tutorial/[Bb]uilds/
+/Healthbar Tutorial/[Ll]ogs/
+/Healthbar Tutorial/[Mm]emoryCaptures/
+/Infinite Platform Generate - Test/[Ll]ibrary/
+/Infinite Platform Generate - Test/[Tt]emp/
+/Infinite Platform Generate - Test/[Oo]bj/
+/Infinite Platform Generate - Test/[Bb]uild/
+/Infinite Platform Generate - Test/[Bb]uilds/
+/Infinite Platform Generate - Test/[Ll]ogs/
+/Infinite Platform Generate - Test/[Mm]emoryCaptures/
+
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
