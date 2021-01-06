@@ -23,6 +23,20 @@
 /Infinite Platform Generate - Test/[Bb]uilds/
 /Infinite Platform Generate - Test/[Ll]ogs/
 /Infinite Platform Generate - Test/[Mm]emoryCaptures/
+/Button Listener/[Ll]ibrary/
+/Button Listener/[Tt]emp/
+/Button Listener/[Oo]bj/
+/Button Listener/[Bb]uild/
+/Button Listener/[Bb]uilds/
+/Button Listener/[Ll]ogs/
+/Button Listener/[Mm]emoryCaptures/
+/Jump Object/[Ll]ibrary/
+/Jump Object/[Tt]emp/
+/Jump Object/[Oo]bj/
+/Jump Object/[Bb]uild/
+/Jump Object/[Bb]uilds/
+/Jump Object/[Ll]ogs/
+/Jump Object/[Mm]emoryCaptures/
 
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
